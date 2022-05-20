@@ -4,6 +4,20 @@
 
 You can use Fabric samples to get started working with Hyperledger Fabric, explore important Fabric features, and learn how to build applications that can interact with blockchain networks using the Fabric SDKs. To learn more about Hyperledger Fabric, visit the [Fabric documentation](https://hyperledger-fabric.readthedocs.io/en/latest).
 
+## ScreenShots
+Exercises                   |Exercises (Chest, Shoulder, Bicep and Tricep, Back, Legs and Abs)              
+:-------------------------:|:-------------------------:
+![Exercises](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-39-29.png) | ![DifferentExercises](https://github.com/sithukaungset/finalshopblock/blob/main/shop-block/apiserver/images/Screenshot%20from%202022-05-20%2014-37-31.png)
+
+Gym Time                |Calendar for Gym schedules                
+:-------------------------:|:-------------------------:
+![Gym Time](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-40-30.png) | ![Calendar](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-40-35.png)
+
+Nutrition               |Daily Protein suggestions                
+:-------------------------:|:-------------------------:
+![Nutrition](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-40-43.png) | ![DailyProtein](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-40-49.png)
+ 
+ 
 ## Getting started with the Fabric samples
 
 To use the Fabric samples, you need to download the Fabric Docker images and the Fabric CLI tools. First, make sure that you have installed all of the [Fabric prerequisites](https://hyperledger-fabric.readthedocs.io/en/latest/prereqs.html). You can then follow the instructions to [Install the Fabric Samples, Binaries, and Docker Images](https://hyperledger-fabric.readthedocs.io/en/latest/install.html) in the Fabric documentation. In addition to downloading the Fabric images and tool binaries, the Fabric samples will also be cloned to your local machine.
@@ -41,19 +55,7 @@ transfer an asset in a more realistic transfer scenario.
 | [Attribute-based access control](asset-transfer-abac) | Demonstrates the use of attribute and identity based access control using a simple asset transfer scenario | [README](asset-transfer-abac/README.md)  | Go | None |
 
 
-## ScreenShots
-Exercises                   |Exercises (Chest, Shoulder, Bicep and Tricep, Back, Legs and Abs)              
-:-------------------------:|:-------------------------:
-![Exercises](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-39-29.png) | ![DifferentExercises](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-39-36.png)
 
-Gym Time                |Calendar for Gym schedules                
-:-------------------------:|:-------------------------:
-![Gym Time](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-40-30.png) | ![Calendar](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-40-35.png)
-
-Nutrition               |Daily Protein suggestions                
-:-------------------------:|:-------------------------:
-![Nutrition](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-40-43.png) | ![DailyProtein](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-40-49.png)
- 
 ## Additional samples
 
 Additional samples demonstrate various Fabric use cases and application patterns.
