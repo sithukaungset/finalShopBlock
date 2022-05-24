@@ -1,6 +1,6 @@
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
-# Hyperledger Fabric Samples
+# ShopBlock (Decentralized Blockchain based Shopping Platform)
 
 You can use Fabric samples to get started working with Hyperledger Fabric, explore important Fabric features, and learn how to build applications that can interact with blockchain networks using the Fabric SDKs. To learn more about Hyperledger Fabric, visit the [Fabric documentation](https://hyperledger-fabric.readthedocs.io/en/latest).
 
@@ -42,11 +42,7 @@ applications on a development or CI workstation.
 
 ## Asset transfer samples and tutorials
 
-The asset transfer series provides a series of sample smart contracts and applications to demonstrate how to store and transfer assets using Hyperledger Fabric.
-Each sample and associated tutorial in the series demonstrates a different core capability in Hyperledger Fabric. The **Basic** sample provides an introduction on how
-to write smart contracts and how to interact with a Fabric network using the Fabric SDKs. The **Ledger queries**, **Private data**, and **State-based endorsement**
-samples demonstrate these additional capabilities. Finally, the **Secured agreement** sample demonstrates how to bring all the capabilities together to securely
-transfer an asset in a more realistic transfer scenario.
+You can sell and buy all the products and items from our blockchain.
 
 |  **Smart Contract** | **Description** | **Tutorial** | **Smart contract languages** | **Application languages** |
 | -----------|------------------------------|----------|---------|---------|
@@ -60,7 +56,7 @@ transfer an asset in a more realistic transfer scenario.
 
 
 
-## Additional samples
+## Smart contract in Hyperledger Fabric
 
 Additional samples demonstrate various Fabric use cases and application patterns.
 
