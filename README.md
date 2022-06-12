@@ -4,22 +4,22 @@
 
 You can use Fabric samples to get started working with Hyperledger Fabric, explore important Fabric features, and learn how to build applications that can interact with blockchain networks using the Fabric SDKs. To learn more about Hyperledger Fabric, visit the [Fabric documentation](https://hyperledger-fabric.readthedocs.io/en/latest).
 
-## ScreenShots
-Exercises                   |Exercises (Chest, Shoulder, Bicep and Tricep, Back, Legs and Abs)              
+## Shop Block (Blockchain based shopping site)
+Main Home Page                  |Shopping Page              
 :-------------------------:|:-------------------------:
 ![Exercises](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-39-29.png) | ![DifferentExercises](https://github.com/sithukaungset/finalshopblock/blob/main/shop-block/apiserver/images/Screenshot%20from%202022-05-20%2014-37-31.png)
 
-Gym Time                |Calendar for Gym schedules                
+Creating Account                |Buyer Page                
 :-------------------------:|:-------------------------:
 ![Gym Time](https://github.com/sithukaungset/finalshopblock/blob/main/shop-block/apiserver/images/Screenshot%20from%202022-05-20%2014-36-18.png) | ![Calendar](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-40-35.png)
 
-Nutrition               |Daily Protein suggestions                
+Seller Page             |Transfer ERC-20 Tokens                
 :-------------------------:|:-------------------------:
 ![Nutrition](https://github.com/sithukaungset/finalshopblock/blob/main/shop-block/apiserver/images/Screenshot%20from%202022-05-20%2014-37-20.png) | ![DailyProtein](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-40-49.png)
  
- Nutrition               |Daily Protein suggestions                
+ Ownership               |Shipping                
 :-------------------------:|:-------------------------:
-![Nutrition](https://github.com/sithukaungset/finalshopblock/blob/main/shop-block/apiserver/images/Screenshot%20from%202022-05-20%2014-37-05.png)
+![Ownership](https://github.com/sithukaungset/finalshopblock/blob/main/shop-block/apiserver/images/Screenshot%20from%202022-05-20%2014-37-05.png)
  
  
 ## Getting started with the Fabric samples
