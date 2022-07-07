@@ -2,7 +2,8 @@
 
 # ShopBlock (Decentralized Blockchain based Shopping Platform)
 
-You can use Fabric samples to get started working with Hyperledger Fabric, explore important Fabric features, and learn how to build applications that can interact with blockchain networks using the Fabric SDKs. To learn more about Hyperledger Fabric, visit the [Fabric documentation](https://hyperledger-fabric.readthedocs.io/en/latest).
+You can check the front end page of the Blockchain based Shopping Platform on IPFS which is uploaded using fleek.
+Here is the link of the front end page of Shop Block. "https://solitary-meadow-3703.on.fleek.co/"
 
 ## Shop Block (Blockchain based shopping site)
 Main Home Page                  |Shopping Page              
